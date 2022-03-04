@@ -5,7 +5,7 @@ Containing all lessons since 1888
 
 | Year | Quarter 1 | Quarter 2 | Quarter 3 | Quarter 4|
 |------|-----------|-----------|-----------|----------|
-All Lessons|[All Lessons Combined](allLessonsSmall.html) \| ⇩](allLessonsSmall.pdf) | | |
+All Lessons|[All Lessons Combined](allLessonsSmall.html) \| [⇩](allLessonsSmall.pdf) | | |
 1886| The Bible Sanctuary  |The Law and the Sabbath  |The Law and the Sabbath  |Parables of Jesus 
 1887| Ministration of Angels  |Faith and Obedience  |Sanctification and Prayer  |Sanctification and Prayer 
 1888| [Old Testament History](SS18880101-01.pdf) |[Old Testament History](SS18880101-01.pdf) |[The Third Angel's Message](SS18880701-03.pdf) |[Second Epistle of Peter](SS18880701-03.pdf)
