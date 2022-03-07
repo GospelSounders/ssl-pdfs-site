@@ -5,7 +5,6 @@ Containing all lessons since 1888
 
 | Year | Quarter 1 | Quarter 2 | Quarter 3 | Quarter 4|
 |------|-----------|-----------|-----------|----------|
-All Lessons|[All Lessons Combined](html/allLessonsSmall.html) \| [⇩](allLessonsSmall.pdf) | | |
 1886| The Bible Sanctuary  |The Law and the Sabbath  |The Law and the Sabbath  |Parables of Jesus 
 1887| Ministration of Angels  |Faith and Obedience  |Sanctification and Prayer  |Sanctification and Prayer 
 1888| [Old Testament History](SS18880101-01.pdf) |[Old Testament History](SS18880101-01.pdf) |[The Third Angel's Message](SS18880701-03.pdf) |[Second Epistle of Peter](SS18880701-03.pdf)
@@ -138,3 +137,4 @@ All Lessons|[All Lessons Combined](html/allLessonsSmall.html) \| [⇩](allLesson
 2015| [Proverbs](SS20150101-01.pdf) |[The Book of Luke](SS20150401-02.pdf) |[Biblical Missionaries](SS20150701-03.pdf) |[Jeremiah](SS20151001-04.pdf)
 2016| Rebellion and Redemption |The Book of Matthew |The Role of the Church in the Community |The Book of Job
 2017| The Holy Spirit and Spirituality |"Feed My Sheep": First and Second Peter
+All Lessons|[All Lessons Combined](html/allLessonsSmall.html) \| [⇩](allLessonsSmall.pdf) | | |
