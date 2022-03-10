@@ -137,4 +137,4 @@ Containing all lessons since 1888
 2015| [Proverbs](htmls/SS20150101-01.html) \| [⇩](SS20150101-01.pdf) \| [txt](texts/SS20150101-01.txt) |[The Book of Luke](htmls/SS20150401-02.html) \| [⇩](SS20150401-02.pdf) \| [txt](texts/SS20150401-02.txt) |[Biblical Missionaries](htmls/SS20150701-03.html) \| [⇩](SS20150701-03.pdf) \| [txt](texts/SS20150701-03.txt) |[Jeremiah](htmls/SS20151001-04.html) \| [⇩](SS20151001-04.pdf) \| [txt](texts/SS20151001-04.txt)
 2016| Rebellion and Redemption |The Book of Matthew |The Role of the Church in the Community |The Book of Job
 2017| The Holy Spirit and Spirituality |"Feed My Sheep": First and Second Peter
-All Lessons|[All Lessons Combined](html/allLessonsSmall.html) \| [⇩](allLessonsSmall.pdf) | | |
+All Lessons|[All Lessons Combined](html/allLessonsSmall.html) \| [⇩](allLessonsSmall.pdf) \|[txt](allLessonsSmall.txt)| | |
