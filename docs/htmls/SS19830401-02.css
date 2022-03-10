@@ -1,0 +1,23 @@
+.ff0{font-family:sans-serif;visibility:hidden;}
+.sc_{text-shadow:none;}
+@media screen and (-webkit-min-device-pixel-ratio:0){
+.sc_{-webkit-text-stroke:0px transparent;}
+}
+.h3{height:579.023800px;}
+.h2{height:589.384900px;}
+.h1{height:598.520490px;}
+.h0{height:602.443000px;}
+.w0{width:384.894000px;}
+.w3{width:385.523000px;}
+.w2{width:756.277000px;}
+.w1{width:785.559000px;}
+@media print{
+.h3{height:772.031733pt;}
+.h2{height:785.846533pt;}
+.h1{height:798.027320pt;}
+.h0{height:803.257333pt;}
+.w0{width:513.192000pt;}
+.w3{width:514.030667pt;}
+.w2{width:1008.369333pt;}
+.w1{width:1047.412000pt;}
+}
